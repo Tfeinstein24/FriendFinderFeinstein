@@ -28,23 +28,23 @@ var customers = [{
   UniqueID: ""
 }];
 
-// Basic route that sends the user first to the AJAX Page
+// Basic route that sends the user to survey page
 app.get("/survey", function(req, res) {
-  // res.send("Welcome to the Star Wars Page!")
+  // takes you to survey page
   res.sendFile(path.join(__dirname, "survey.html"));
 });
-
+// This route takes you to home page
 app.get("/", function(req, res) {
-  // res.send("Welcome to the Star Wars Page!")
+  // points to home.html
   res.sendFile(path.join(__dirname, "home.html"));
 });
 // API routes
 app.get("/api/friends", function(req, res) {
-  // res.send("Welcome to the Star Wars Page!")
-  res.sendFile(path.join(__dirname, "tables.html"));
+  // Used to display JSON of all possible friends
+  res.sendFile(path.join(__dirname, "friends.js"));
 });
-app.get("/api/friends", function(req, res) {
-  // res.send("Welcome to the Star Wars Page!")
+app.post("/api/friends", function(req, res) {
+  // Used to handle incoming survey results. Also used to handle compatibility logic
   res.sendFile(path.join(__dirname, "tables.html"));
 });
 
@@ -53,4 +53,3 @@ app.get("/api/friends", function(req, res) {
 app.listen(PORT, function() {
   console.log("App listening on PORT " + PORT);
 });
-

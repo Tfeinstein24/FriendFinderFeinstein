@@ -1,7 +1,7 @@
 var friends = [
   {
-      "name":"Owen",
-      "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+      "name":"Dr. Evil",
+      "photo":"https://upload.wikimedia.org/wikipedia/en/1/16/Drevil_million_dollars.jpg",
       "scores":[
          5,
          1,
@@ -16,8 +16,8 @@ var friends = [
           ]
       },
   {
-  "name":"Pavan",
-  "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+  "name":"Mugatu",
+  "photo":"https://metrouk2.files.wordpress.com/2015/10/mugatu.jpg?quality=80&strip=all",
   "scores":[
      5,
      1,
@@ -32,8 +32,8 @@ var friends = [
       ]
 },
 {
-  "name":"Angel",
-  "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+  "name":"Godzilla",
+  "photo":"https://upload.wikimedia.org/wikipedia/en/9/9f/American_Godzilla_%2714.jpg",
   "scores":[
      9,
      1,
@@ -48,8 +48,8 @@ var friends = [
       ]
 },
 {
-  "name":"Karina",
-  "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+  "name":"Megatron",
+  "photo":"http://news.tfw2005.com/wp-content/uploads/sites/10/2016/01/3A-DOTM-Megatron-020.jpg",
   "scores":[
      5,
      1,
@@ -64,8 +64,8 @@ var friends = [
       ]
 },
 {
-  "name":"Miriam",
-  "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+  "name":"Alien from Independence Day",
+  "photo":"http://cdn2-www.comingsoon.net/assets/uploads/2016/06/ID4baralien-2.jpg",
   "scores":[
      5,
      1,
@@ -80,8 +80,8 @@ var friends = [
       ]
 },
 {
-  "name":"Lisa",
-  "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+  "name":"Stitch",
+  "photo":"https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/Stitch_%28Lilo_%26_Stitch%29.svg/1200px-Stitch_%28Lilo_%26_Stitch%29.svg.png",
   "scores":[
      5,
      1,
@@ -96,8 +96,8 @@ var friends = [
       ]
 },
 {
-  "name":"Nicole",
-  "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+  "name":"Bad Grandpa",
+  "photo":"http://res.cloudinary.com/thedailybeast/image/upload/v1492458768/articles/2013/11/08/johnny-knoxville-on-how-he-pulled-off-bad-grandpa-s-most-hilarious-raunchiest-prank/131108-stern-bad-grandpa-tease_hsfhxq.jpg",
   "scores":[
      5,
      1,
@@ -112,8 +112,8 @@ var friends = [
       ]
 },
 {
-  "name":"Jason",
-  "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+  "name":"Kim Jong Un",
+  "photo":"https://www.biography.com/.image/c_fill%2Ccs_srgb%2Cg_face%2Ch_300%2Cq_80%2Cw_300/MTIwNjA4NjM0MjAzODMzODY4/to-go-with-oly-2012-prkfeaturefiles.jpg",
   "scores":[
      5,
      1,
@@ -128,8 +128,8 @@ var friends = [
       ]
 },
 {
-  "name":"Nate",
-  "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+  "name":"Blanca",
+  "photo":"https://i.ytimg.com/vi/BYaBY3DM3j0/hqdefault.jpg",
   "scores":[
      5,
      1,
@@ -144,8 +144,8 @@ var friends = [
       ]
 },
 {
-  "name":"Ken",
-  "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+  "name":"Damien",
+  "photo":"http://www.locoinyokohama.com/wp-content/uploads/2017/02/damien.jpg",
   "scores":[
      5,
      1,

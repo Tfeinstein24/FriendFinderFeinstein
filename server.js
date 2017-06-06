@@ -39,14 +39,16 @@ app.get("/", function(req, res) {
   res.sendFile(path.join(__dirname, "home.html"));
 });
 // API routes
-app.get("/api/friends", function(req, res) {
+require("./routing/apiRoutes")(app);
+
+//app.get("/api/friends", function(req, res) {
   // Used to display JSON of all possible friends
-  res.sendFile(path.join(__dirname, "friends.js"));
-});
-app.post("/api/friends", function(req, res) {
+//res.sendFile(path.join(__dirname, "friends.js"));
+//});
+//app.post("/api/friends", function(req, res) {
   // Used to handle incoming survey results. Also used to handle compatibility logic
-  res.sendFile(path.join(__dirname, "tables.html"));
-});
+  //res.sendFile(path.join(__dirname, "tables.html"));
+//});
 
 // Starts the server to begin listening
 // =============================================================

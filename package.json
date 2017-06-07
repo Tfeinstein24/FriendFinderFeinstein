@@ -18,8 +18,10 @@
   },
   "homepage": "https://github.com/Tfeinstein24/FriendFinderFeinstein#readme",
   "dependencies": {
+    "body-parser": "^1.17.2",
     "express": "^4.15.3",
     "inquirer": "^3.0.6",
-    "mysql": "^2.13.0"
+    "mysql": "^2.13.0",
+    "path": "^0.12.7"
   }
 }
